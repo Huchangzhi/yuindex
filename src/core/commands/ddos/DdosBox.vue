@@ -11,7 +11,7 @@
     <img
       width="200"
    
-      src="./hehe.gif"
+      src="hehe.gif"
       alt="做个好人"
     />
     <img
