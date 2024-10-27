@@ -6,7 +6,11 @@
       <a href="https://ceshiya.vercel.app/" target="_blank">
         https://ceshiya.vercel.app/
       </a>
+
     </div>
+    <video width="320" height="240" controls>
+      <source src="hehe.mp4" type="video/mp4">
+    </video>
     <img
       width="200"
       style="margin: 8px 0"
