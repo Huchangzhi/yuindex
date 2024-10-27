@@ -10,7 +10,7 @@
     </div>
     <img
       width="200"
-      style="margin: 8px 0"
+   
       src="./hehe.gif"
       alt="做个好人"
     />
