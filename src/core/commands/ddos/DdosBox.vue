@@ -8,9 +8,12 @@
       </a>
 
     </div>
-    <video width="320" height="240" controls>
-      <source src="hehe.mp4" type="video/mp4">
-    </video>
+    <img
+      width="200"
+      style="margin: 8px 0"
+      src="./hehe.gif"
+      alt="做个好人"
+    />
     <img
       width="200"
       style="margin: 8px 0"
